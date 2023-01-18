@@ -1,4 +1,4 @@
-# Hydejack Starter Kit
+# 개발중 참고 사항 보관소
 
 A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
 
